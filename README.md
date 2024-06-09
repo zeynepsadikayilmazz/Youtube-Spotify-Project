@@ -1,5 +1,6 @@
 # Youtube-Spotify-Project
-![image](https://github.com/zeynepsadikayilmazz/Youtube-Spotify-Project/assets/171125942/4abc7cf0-d715-4135-a407-2c7696c86592)
+![image](https://github.com/zeynepsadikayilmazz/Youtube-Spotify-Project/assets/171125942/92736cae-d5ee-446e-a8d7-72366d1d7d0e)
+
 
 This project leverages a dataset from Kaggle that contains information on songs available on both Spotify and YouTube. The primary goal of this project is to analyze the relationship between the performance metrics on these two platforms and to derive insights regarding song popularity, engagement, and other factors that influence a song's success.
 Dataset Description
